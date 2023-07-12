@@ -1,0 +1,1 @@
+streamlit run "C:\Users\PRASANNA\OneDrive\Desktop\Multiple prediction system\multipleprediction.py"
